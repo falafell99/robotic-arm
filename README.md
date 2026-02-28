@@ -18,11 +18,9 @@ This project was awarded the **Gold Medal in Tech & Engineering** at the **Inter
 * **Cost-Effective Design:** Built using accessible components (Arduino, 3D-printed parts) to keep the total cost under $500.
 
 ## 🛠 Tech Stack
-* **Languages:** Python (Signal Processing, Analysis), C++ (Arduino Firmware).
+* **Languages:** Python (Signal Processing), C++ (Arduino Firmware).
 * **Libraries:** OpenCV (Visual Tracking), NumPy (Data Processing).
 * **Hardware:** Arduino, Bio-sensors, Servo Motors.
-
-
 
 ## 🧬 How It Works
 1.  **Signal Acquisition:** Sensors detect micro-voltage changes in the muscles.
@@ -36,5 +34,5 @@ This project was awarded the **Gold Medal in Tech & Engineering** at the **Inter
 * [ ] **Mobile Integration:** Developing a Flutter-based dashboard for real-time sensor calibration.
 
 ## 🤝 Contact
-**Rafael Ibayev** Computer Science Student at Eötvös Loránd University (ELTE).  
-[LinkedIn](https://www.linkedin.com/in/rafael-ibayev/) | [Portfolio](https://falafell99.github.io/index.html)
+**Rafael Ibayev** – Computer Science Student at Eötvös Loránd University (ELTE).  
+[LinkedIn](https://www.linkedin.com/in/rafael-ibayev-17889b334/) | [Portfolio](https://falafell99.github.io/index.html)
