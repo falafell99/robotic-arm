@@ -35,4 +35,4 @@ This project was awarded the **Gold Medal in Tech & Engineering** at the **Inter
 
 ## 🤝 Contact
 **Rafael Ibayev** – Computer Science Student at Eötvös Loránd University (ELTE).  
-[LinkedIn](https://www.linkedin.com/in/rafael-ibayev-17889b334/) | [Portfolio](https://falafell99.github.io/index.html)
+| [Portfolio](https://falafell99.github.io/index.html)
