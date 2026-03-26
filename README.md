@@ -29,10 +29,10 @@ This project was awarded the **Gold Medal in Tech & Engineering** at the **Inter
 4.  **Action:** The Arduino controller executes precise PWM signals to drive the robotic motors.
 
 ## 📈 Future Roadmap
-* [ ] **Adaptive Calibration:** Implementing machine learning models to adapt to different users (in collaboration with **ELTE Data Science Club**).
+* [ ] **Adaptive Calibration:** Implementing machine learning models to adapt to different users.
 * [ ] **Enhanced Durability:** Testing carbon-fiber reinforced 3D printing materials.
 * [ ] **Mobile Integration:** Developing a Flutter-based dashboard for real-time sensor calibration.
 
 ## 🤝 Contact
 **Rafael Ibayev** – Computer Science Student at Eötvös Loránd University (ELTE).  
-| [Portfolio](https://falafell99.github.io/index.html)
+| [Portfolio](https://rafael-ibayev-portfolioo.vercel.app)
